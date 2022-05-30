@@ -1,2 +1,2 @@
 # employees
-employees dshboard with Angular and NgRx
+employees dashboard with Angular and NgRx
